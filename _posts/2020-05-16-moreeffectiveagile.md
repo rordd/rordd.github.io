@@ -28,7 +28,7 @@
 
 이 문제를 해결할 가장 적합한 방법은 가능한 자율적인 운영 팀을 각 지역에 설치하는 것이다. (각 사이트에 운영과 개발 팀을 응집력 있게 배치하고, 사이트 들간은 느슨하게 결합하는 것이다.) 사실 이것은 자율적이고 기능교차적인 팀을 만들고 내부적으로 결정 권한을 주는 애자일의 일반적인 BP이다.
 
-<img src="C:\Users\rordd\Documents\전자서적\moreeffectiveagile\F7-2.png" style="zoom:50%;" />
+<img src="../images/F7-2.png" style="zoom:50%;" />
 
 
 
