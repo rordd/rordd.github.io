@@ -16,6 +16,4 @@
 
 언어, 국민 문화, 사이트 문화, 시차 등의 차이가 쌓여 피드백 루프는 느슨해지고, 실수가 증가한다. 분리된 조직의 개발 생산성 저하는 개인의 문제가 아니라, 이러한 차이에 의한 것이다.
 
-
-
-<img src="C:\Users\rordd\Documents\전자서적\moreeffectiveagile\F7-1.png" alt="그림" style="zoom:50%;" />
+<img src="../images/F7-1.png" style="zoom:50%;" />
