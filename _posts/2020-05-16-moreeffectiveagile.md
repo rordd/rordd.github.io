@@ -2,7 +2,7 @@
 본 장에서는 지역적으로 분산된 팀들간에 효율적인 업무 방법에 대해서 설명한다.
 
 ## Key 원칙 : 피드백 루프 강화 (Tighten Feedback Loops)
-애자일 원칙들은 피드백 루프를 강화하기 위한 것이다.
+애자일 원칙들은 결국은 피드백 루프를 강화하기 위한 것이다.
 
 * Product Owner : 요구사항 관련 피드백 루프 강화
 * Cross-functional team : 의사 결정에 필요한 피드백 루프 강화
@@ -36,16 +36,16 @@
 
 분산된 팀은 다음 사항을 요구한다.
 
-- 주기적인 face to face 의사소통 (Schedule routine face to face communication)
-- 분산된 팀을 위한 실행 계획 지원 (Increase logistical support for distributed teams)
-- 자율성, 성장할 기회, 목적의식 고취 (Leverage Autonomy, Mastery, and Purpose)
-- 콘웨이 법칙 준수 (Respect Conway's Law)
-- 애자일 팀들을 블랙박스로 대하기 (Treat Agile teams as block boxes)
-- 높은 품질 유지 (Maintain high quality)
-- 문화적 차이 알아가기 (Be aware of cultural differences)
-- 관찰과 적응 (Inspect and Adapt)
+1) 주기적인 face to face 의사소통 (Schedule routine face to face communication)
+2) 분산된 팀을 위한 실행 계획 지원 (Increase logistical support for distributed teams)
+3) 자율성, 성장할 기회, 목적의식 고취 (Leverage Autonomy, Mastery, and Purpose)
+4) 콘웨이 법칙 준수 (Respect Conway's Law)
+5) 애자일 팀들을 블랙박스로 대하기 (Treat Agile teams as block boxes)
+6) 높은 품질 유지 (Maintain high quality)
+7) 문화적 차이 알아가기 (Be aware of cultural differences)
+8) 관찰과 적응 (Inspect and Adapt)
 
-## 주기적인 face to face 의사소통 (Schedule routine face to face communication)
+## 1. 주기적인 face to face 의사소통 (Schedule routine face to face communication)
 
 멀티 사이트 개발(multi-site development)의 가장 큰 문제는 기술적인 것이 아니라 대인관계에서의 의사소통 문제이다.
 
@@ -55,7 +55,7 @@
 
 그러므로 일정 비율의 맴버들을 6주마다 주기적으로 다른 사이트를 방문하게 할 필요가 있다. (년간 100% 팀 맴버를 목표로)  
 
-## 분산된 팀을 위한 자원 지원 (Increase logistical support for distributed teams)
+## 2. 분산된 팀을 위한 자원 지원 (Increase logistical support for distributed teams)
 
 성공적인 협업을 위해서는 분산된 팀의 업무 스타일에 자금, 노력, 시간을 지원해야 한다. 
 
@@ -86,7 +86,7 @@
 
 새 직원은 onboarding 활동으로 원격 site에 방문하도록 계획한다. 새 직원에게 효과적인 멀티 사이트 활동에 대해 코칭할 맨토를 제공한다. 
 
-## 자율성, 성장할 기회, 목적의식 고취 (Leverage Autonomy, Mastery, and Purpose)
+## 3. 자율성, 성장할 기회, 목적의식 고취 (Leverage Autonomy, Mastery, and Purpose)
 
 어떤 회사는 분산된 팀들을 동등 상태로 유지하지만, 대부분의 경우 차이를 두어 onshore vs offshore, in-house vs. outsourced, parent company vs. acquired company, 그리고 main site vs. satellite sites와 같이 구분하여 덜 중요한 일을 맡기고 덜 자율적으로 운영한다. 
 
@@ -94,7 +94,7 @@
 
 - 멀티 사이트 개발을 성공하기 위해서, 각 지역 마다 자율적으로 업무를 수행할 수 있게 하고, 전문가로 성장할 기회를 주며, 그들의 일이 조직적으로 얼마나 중요한지 활발히 커뮤니케이션 한다. 
 
-## 콘웨이 법칙 준수 (Respect Conway's Law)
+## 4. 콘웨이 법칙 준수 (Respect Conway's Law)
 
 콘웨이 법칙은 시스템의 기술적 구조는 시스템을 구축하는 조직의 구조 (관리 구조와 대인관계 네트워크 구조)를 반영한다는 것이다. 반대로 기술적 설계 또한 조직 설계에 영향을 준다. 
 
@@ -102,13 +102,13 @@
 
 만일 수년동안 분산된 조직 구조라면, 아마도 이미 아키텍처는 조직의 구조에 영향을 받아 있을 것이다. 그런데 만일 어떤 팀이 이전을 하게 된다면 아키텍처와 조직을 비교하여 어울리지 않는 조합을 찾아야 한다. 
 
-## 애자일 팀들을 블랙박스로 대하기 (Treat Agile teams as block boxes)
+## 5. 애자일 팀들을 블랙박스로 대하기 (Treat Agile teams as block boxes)
 
 지역적으로 분리된 조직의 관리 원칙은 팀을 블랙 박스로 대하는 것이다. (이것은 같은 지역 조직들간에도 동일하다. ) 세부사항에 지나치게 관심있는 관리자 보다는 방향을 설정하는 리더에 의해 관리한다. 
 
 팀의 인풋과 아웃풋을 관리하고 팀의 구체적인 실행에 초점을 맞추는 것은 피한다. 
 
-## 높은 품질 유지 (Maintain high quality)
+## 6. 높은 품질 유지 (Maintain high quality)
 
 소프트웨어를 항상 배포가능한 상태로 유지해야 한다는 애자일의 원칙은 지역적으로 분산된 팀이 과도하게 분기하는 것을 방지한다. 
 
@@ -116,7 +116,7 @@
 
 해결책은 관행을 수정하여 병합에 필요한 업무를 간소화하는 것이다. 어떤 경우에는 개발 사이트 수를 줄이겠다는 결정이 나올 수 있다. 
 
-## 문화적 차이 알아가기 (Be aware of cultural differences)
+## 7. 문화적 차이 알아가기 (Be aware of cultural differences)
 
 문화 차이란? 
 
@@ -127,13 +127,37 @@
 
 이런 문화 차이를 이해할 필요가 있다.
 
-## 관찰과 적응 (Inspect and Adapt)
-분리된 조직과 협업시의 난이도는 사이트 수와 위치, 소프트웨어 구조, 업무 배치 방식, 각 site의 팀 역량에 영향을 받는다.  
+## 8. 관찰과 적응 (Inspect and Adapt)
+지역적으로 분산된 조직들은 정규적인 회고에 참여해야 한다. 문화적인 차이는 회고시에 문제가 될 수있으며, 솔직한 토론을 위해 추가 작업이 필요할 수도 있다.
+
+또한, 조직은 다중 site개발의 문제에 중점을 둔 시스템 수준의 회고를 지원하고, 식별된 문제를 해결할 수 있는 권한을 부여 해야 한다.
+
+분산 된 팀이 성공하기 위해서는 많은 일을 해야 하며, 지름길을 찾을 수 있는 영역이 아니다.
 
 ## Key Principle : 개인이 아니라 시스템을 개선해야 한다. (Fix the System, Not the Individual)
 
-## 다른 고려점들 (Other Considerations)
+분산된 조직간의 개발은 잘못된 의사소통과 그로인한 오류를 증가시키고, 결함을 개선하는데 더 많은 시간을 소비하게 된다.  
+
+이것을 개인의 문제로 비난하지 말고, 시스템 문제로 처리해야 한다.  오류에 대해 비난 방지 원칙은 지역적으로 분산된 조직에서 특히 중요하다.
+
+## 그외 고려 사항(Other Considerations)
+
+분산된 팀과 업무시 비효율적인 요소를 발견한다면, 같은 조직(or primary sites)에서도 비슷한 문제가 없는지 살펴보아야 한다. (같은 지역적 특성으로 쉽게 발견되지 않았을 수 있다.)
 
 ## 리더에게 추천하는 실행 사항들 (Suggested Leadership Actions)
 
+관찰
 
+- 피드백 루프가 얼마나 강한지 확인하라. (이장의 나열된 전통적인 실수를 저지르고 있지 않은가?)
+- 언어, 문화 등의 차이를 리뷰해서, 이러한 차이의 영향으로인한 잘못된 소통을 진단하라
+- 각 팀들은 자율성, 성장할 기회, 목적 의식을 가지고 있는가?
+- 분산된 팀들은 배포가능한 수준의 품질에 대해 충분히 훈련받았는가? 
+- 분산된 팀들의 더 효율적인 업무를 위한 회고 시스템을 가지고 있는가? 
+
+적응
+
+- 피드백 루프 강화(tighten feedback loops)를 위해 팀과 의사소통 패턴을 재구성하라.
+- 여러 site간의 의사소통과 상호간의 이해를 향상 시킬 수 있는 계획을 수립하라.
+- 분산된 팀이 자율성, 성장할 기회, 목적의식을 가질 수 있도록 계획을 수립하라.
+- 항상 배포 가능한 수준의 품질을 유지하는 것이 얼마나 중요한지 알리고, 적절한 DoD를 사용하는지 확인하라.
+- 회고 결과를 바탕으로 변경을 수행 할 수 있는 권한을 주어라.
