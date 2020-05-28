@@ -118,11 +118,22 @@
 
 ## 문화적 차이 알아가기 (Be aware of cultural differences)
 
-문화 차이란
+문화 차이란? 
 
 - 간단한 질문에 "아니오" 라고 대답하는 것을 포함해서 나쁜 소식을 전할 때의 의사 표현
 - 권위에 대한 반응
 - 개인적인 vs. 팀 성과에 대한 성향
 - 근무 시간에 대한 기대, work vs. personal life 우선순위
 
+이런 문화 차이를 이해할 필요가 있다.
+
 ## 관찰과 적응 (Inspect and Adapt)
+
+
+## Key Principle : 개인이 아니라 시스템을 개선해야 한다. (Fix the System, Not the Individual)
+
+## 다른 고려점들 (Other Considerations)
+
+## 리더에게 추천하는 실행 사항들 (Suggested Leadership Actions)
+
+
