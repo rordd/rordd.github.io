@@ -136,4 +136,3 @@
 
 ## 리더에게 추천하는 실행 사항들 (Suggested Leadership Actions)
 
-
