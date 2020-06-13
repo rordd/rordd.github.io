@@ -849,7 +849,7 @@ unstable(3) -> stable 이 이상적이며, 만일 unstable(3) -> stable->flexibl
 
 클린 아키텍처로 추가적인 변경의 축(axis of change)으로 추상 컴포넌트를 통해 경계를 나누었다.
 
-![image-20200612201400886](C:\Users\rordd\AppData\Roaming\Typora\typora-user-images\image-20200612201400886.png)
+![image-20200612201400886](..\images\cleanarchitecture\F25.5)
 
 추가적인 데이타 흐름으로 네트워크를 추가하고, Game Rules을 Player Management와 Move Management로 나누었다.
 
